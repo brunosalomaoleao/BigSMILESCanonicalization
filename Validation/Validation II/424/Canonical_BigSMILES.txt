@@ -1,0 +1,6 @@
+Initial: O{[<][>]CCCCCC(=O)[<][>]}OC(c1ccccc1)(c(cc2)ccc2OC(=O)C(C){[$][$]CC(C)(C(=O)OC)[$][$]}Br)C(c3ccccc3)(c(cc4)ccc4OC(=O)C(C){[$][$]CC(c5ccccc5)[$][$]}Br)O{[>][<]C(=O)CCCCC[>][<]}O 
+Canonical: O{[<][>]CCCCCC(=O)[<][>]}OC(c(cc1)ccc1)(c(cc1)ccc1OC(C{[<][>]CC(c(cc1)ccc1)[<],[>]C(c(cc1)ccc1)C[<][>]}BrC)=O)C(c(cc1)ccc1OC(=O)C(C){[<][>]CC(C)(C(OC)=O)[<],[>]C(C(OC)=O)(C)C[<][>]}Br)(c(cc1)ccc1)O{[<][>]C(=O)CCCCC[<][>]}O
+Other options:
+O{[<][>]CCCCCC(=O)[<][>]}OC(c(cc1)ccc1)(c(cc1)ccc1OC(C{[<][>]CC(C)(C(OC)=O)[<],[>]C(C(OC)=O)(C)C[<][>]}BrC)=O)C(c(cc1)ccc1OC(=O)C(C){[<][>]CC(c(cc1)ccc1)[<],[>]C(c(cc1)ccc1)C[<][>]}Br)(c(cc1)ccc1)O{[<][>]C(=O)CCCCC[<][>]}O
+Br{[<][>]CC(C)(C(OC)=O)[<],[>]C(C(OC)=O)(C)C[<][>]}C(C)C(=O)Oc(cc1)ccc1C(C(O{[<][>]C(=O)CCCCC[<][>]}O)(c(cc1)ccc1)c(cc1)ccc1OC(=O)C(C){[<][>]CC(c(cc1)ccc1)[<],[>]C(c(cc1)ccc1)C[<][>]}Br)(c(cc1)ccc1)O{[<][>]C(=O)CCCCC[<][>]}O
+Br{[<][>]CC(c(cc1)ccc1)[<],[>]C(c(cc1)ccc1)C[<][>]}C(C)C(=O)Oc(cc1)ccc1C(C(O{[<][>]C(=O)CCCCC[<][>]}O)(c(cc1)ccc1)c(cc1)ccc1OC(=O)C(C){[<][>]CC(C)(C(OC)=O)[<],[>]C(C(OC)=O)(C)C[<][>]}Br)(c(cc1)ccc1)O{[<][>]C(=O)CCCCC[<][>]}O

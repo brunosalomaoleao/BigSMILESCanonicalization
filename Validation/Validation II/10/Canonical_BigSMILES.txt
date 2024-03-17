@@ -1,0 +1,3 @@
+Initial: {[][$]CC[$][]} 
+Canonical: {[][>]CC[<][]}
+Other options:

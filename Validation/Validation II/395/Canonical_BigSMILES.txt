@@ -1,0 +1,3 @@
+Initial: {[][<]C(=O)Nc(cc1)ccc1Cc(cc2)ccc2NC(=O)[<],[>]NCCC{[>][<][Si](C)(C)O[>][<]}[Si](C)(C)CCCN[>][]} 
+Canonical: {[][>0]C(=O)Nc(cc1)ccc1Cc(cc1)ccc1NC(=O)[<2],[>2]NCCC[Si](C)(C){[<][>]O[Si](C)(C)[<][>]}CCCN[<0][]}
+Other options:

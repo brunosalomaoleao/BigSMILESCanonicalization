@@ -1,0 +1,3 @@
+Initial: N([#R])([#R])CCCCN([#R])([#R]).{#R=CCCN(CCCN{[<][>]C(=O)C(CCCCN)N[<][>]})(CCCN{[<][>]C(=O)C(CCCCN)N[<][>]})} 
+Canonical: N{[<][>]C(CCCCN)C(=O)N[<][>]}CCCN(CCCN{[<][>]C(=O)C(CCCCN)N[<][>]}[H])CCCN(CCCCN(CCCN(CCCN{[<][>]C(=O)C(CCCCN)N[<][>]}[H])CCCN{[<][>]C(=O)C(CCCCN)N[<][>]}[H])CCCN(CCCN{[<][>]C(=O)C(CCCCN)N[<][>]}[H])CCCN{[<][>]C(=O)C(CCCCN)N[<][>]}[H])CCCN(CCCN{[<][>]C(=O)C(CCCCN)N[<][>]}[H])CCCN{[<][>]C(=O)C(CCCCN)N[<][>]}[H]
+Other options:

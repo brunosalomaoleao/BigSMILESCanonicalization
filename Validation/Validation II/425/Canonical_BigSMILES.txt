@@ -1,0 +1,6 @@
+Initial: O{[<][>]CCCCCC(=O)[<][>]}OC(c1ccccc1)(c(cc2)ccc2OC(=O)C(C){[$][$]CC(C)(C(=O)OC)[$][$]}Br){[$][$]CC(C(=O)OC(C)(C)C)[$][$]}C(c3ccccc3)(c(cc4)ccc4OC(=O)C(C){[$][$]CC(c5ccccc5)[$][$]}Br)O{[>][<]C(=O)CCCCC[>][<]}O 
+Canonical: O{[<][>]CCCCCC(=O)[<][>]}OC(c(cc1)ccc1)(c(cc1)ccc1OC(C{[<][>]CC(c(cc1)ccc1)[<],[>]C(c(cc1)ccc1)C[<][>]}BrC)=O){[<][>]C(=O)CCCCC[<][>]}C(c(cc1)ccc1OC(C{[<][>]CC(C(OC(C)(C)C)=O)[<],[>]C(C(OC(C)(C)C)=O)C[<][>]}BrC)=O)(c(cc1)ccc1)O{[<][>]CC(C)(C(OC)=O)[<],[>]C(C(OC)=O)(C)C[<][>]}O
+Other options:
+O{[<][>]CCCCCC(=O)[<][>]}OC(c(cc1)ccc1)(c(cc1)ccc1OC(C{[<][>]CC(C)(C(OC)=O)[<],[>]C(C(OC)=O)(C)C[<][>]}BrC)=O){[<][>]CC(C(OC(C)(C)C)=O)[<],[>]C(C(OC(C)(C)C)=O)C[<][>]}C(c(cc1)ccc1OC(C{[<][>]CC(c(cc1)ccc1)[<],[>]C(c(cc1)ccc1)C[<][>]}BrC)=O)(c(cc1)ccc1)O{[<][>]C(=O)CCCCC[<][>]}O
+Br{[<][>]CC(C)(C(OC)=O)[<],[>]C(C(OC)=O)(C)C[<][>]}C(C)C(=O)Oc(cc1)ccc1C{[<][>]CC(C(OC(C)(C)C)=O)[<],[>]C(C(OC(C)(C)C)=O)C[<][>]}C(c(cc1)ccc1OC(C{[<][>]CC(c(cc1)ccc1)[<],[>]C(c(cc1)ccc1)C[<][>]}BrC)=O)(c(cc1)ccc1)O{[<][>]C(=O)CCCCC[<][>]}O(c(cc1)ccc1)O{[<][>]C(=O)CCCCC[<][>]}O
+Br{[<][>]CC(c(cc1)ccc1)[<],[>]C(c(cc1)ccc1)C[<][>]}C(C)C(=O)Oc(cc1)ccc1C{[<][>]C(=O)CCCCC[<][>]}C(c(cc1)ccc1OC(C{[<][>]CC(C(OC(C)(C)C)=O)[<],[>]C(C(OC(C)(C)C)=O)C[<][>]}BrC)=O)(c(cc1)ccc1)O{[<][>]CC(C)(C(OC)=O)[<],[>]C(C(OC)=O)(C)C[<][>]}O(c(cc1)ccc1)O{[<][>]C(=O)CCCCC[<][>]}O

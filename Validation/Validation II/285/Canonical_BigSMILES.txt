@@ -1,0 +1,3 @@
+Initial: {[][<]c1nc2cc(ccc2nc1)c3cc4nc(cnc4cc3)[<],[>]c1ccc(cc1)c2ccc(cc2)c3c(cccc3)[>][]} 
+Canonical: {[][>1]c(ccc1)c(c1)-c(cc1)ccc1-c(cc1)ccc1[<0],[>0]c(cnc1cc2)nc1cc2-c(ccc1nc2)cc1nc2[<1],[>1]c(cc1)ccc1-c(cc1)ccc1-c(cc1)c(cc1)[<0][]}
+Other options:

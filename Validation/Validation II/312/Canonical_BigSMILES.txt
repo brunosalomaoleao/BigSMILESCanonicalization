@@ -1,0 +1,3 @@
+Initial: ClCC{[>][<]OCC[>][<]}Cl 
+Canonical: ClCC{[<][>]OCC[<][>]}Cl
+Other options:

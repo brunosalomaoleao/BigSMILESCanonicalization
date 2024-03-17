@@ -1,0 +1,4 @@
+Initial: CC(=O){[>][<]N(CCCCCC)C(=O)[>][<]}OCCCCCCn1nnc(c1)COCC([#Arm])([#Arm])CC.{#Arm=CO{[>][<]C(=O)CCCCCO[>][<]}} 
+Canonical: OC{[<][>]CCCCC(=O)OC[<][>]}C(CC)(CO{[<][>]C(=O)CCCCCO[<][>]}[H])COCc(nn1)cn1CCCCCCOC(=O){[<][>]N(CCCCCC)C(=O)[<][>]}C
+Other options:
+O=C(C){[<][>]N(CCCCCC)C(=O)[<][>]}OCCCCCCn(nn1)cc1COCC(CC)(CO{[<][>]C(=O)CCCCCO[<][>]}[H])CO{[<][>]C(=O)CCCCCO[<][>]}[H]

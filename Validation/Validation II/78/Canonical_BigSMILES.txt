@@ -1,0 +1,4 @@
+Initial: {[][<][Si](c1ccccc1)(c1ccccc1)O[Si](C)(C)c1ccc(cc1)[Si](C)(C)O[>][]} 
+Canonical: {[][>][Si](c(cc1)ccc1)(c(cc1)ccc1)O[Si](C)(C)c(cc1)ccc1[Si](C)(C)O[<][]}
+Other options:
+{[][>]O[Si](C)(C)c(cc1)ccc1[Si](C)(C)O[Si](c(cc1)ccc1)(c(cc1)ccc1)[<][]}

@@ -1,0 +1,4 @@
+Initial: C(c1ccccc1)(c1ccccc1)C{[$][$]CC(c1ncccc1)[$][$]}{[$][$]CC(c1ccncc1)[$][$]}C(C)CC 
+Canonical: CCC(C){[<][>]CC(c(cc1)ccn1)[<],[>]C(c(cc1)ccn1)C[<][>]}{[<][>]CC(c(nc1)ccc1)[<],[>]C(c(nc1)ccc1)C[<][>]}CC(c(cc1)ccc1)c(cc1)ccc1
+Other options:
+c(ccc1)c(c1)C(c(cc1)ccc1)C{[<][>]CC(c(nc1)ccc1)[<],[>]C(c(nc1)ccc1)C[<][>]}{[<][>]CC(c(cc1)ccn1)[<],[>]C(c(cc1)ccn1)C[<][>]}C(C)CC

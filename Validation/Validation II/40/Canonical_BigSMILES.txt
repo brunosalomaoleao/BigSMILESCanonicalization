@@ -1,0 +1,3 @@
+Initial: {[][$]CC(OCCCC)[$][]} 
+Canonical: {[][>]CC(OCCCC)[<],[>]C(OCCCC)C[<][]}
+Other options:

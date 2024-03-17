@@ -1,0 +1,4 @@
+Initial: C(c1ccccc1)OCC{[>][<]OCC[>][<]}OC(COC(=O)C(C)(C)Br)CC(c1ccccc1)C{[$][$]CC(c1ccccc1)[$][$]}CCCC 
+Canonical: CCCC{[<][>]CC(c(cc1)ccc1)[<],[>]C(c(cc1)ccc1)C[<][>]}CC(c(cc1)ccc1)CC(COC(C(C)(C)Br)=O)O{[<][>]OCC[<][>]}CCOCc(cc1)ccc1
+Other options:
+c(ccc1)c(c1)COCCO{[<][>]CCO[<][>]}C(COC(C(C)(C)Br)=O)CC(c(cc1)ccc1)C{[<][>]C(c(cc1)ccc1)C[<],[>]C{[<][>]C(c(cc1)ccc1)C[<][>]}C(c(cc1)ccc1)C(c(cc1)ccc1)C[<][>]}C{[<][>]C(c(cc1)ccc1)C[<][>]}CCC

@@ -1,0 +1,4 @@
+Initial: {[][<]c1c(c2ccccc2)cc(cc1c3ccccc3)O[>][]} 
+Canonical: {[][>]Oc(cc1-c(cc2)ccc2)cc(-c(cc2)ccc2)c1[<][]}
+Other options:
+{[][>]c(c(c1)-c(cc2)ccc2)c(-c(cc2)ccc2)cc1O[<][]}

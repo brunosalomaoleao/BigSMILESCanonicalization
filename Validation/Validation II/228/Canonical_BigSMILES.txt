@@ -1,0 +1,3 @@
+Initial: {[][$]CC(N1C(=O)CCC1)[$][]} 
+Canonical: {[][>]CC(N(CC1)C(C1)=O)[<],[>]C(N(CC1)C(C1)=O)C[<][]}
+Other options:

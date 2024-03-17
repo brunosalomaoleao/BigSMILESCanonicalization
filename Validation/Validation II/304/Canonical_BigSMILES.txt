@@ -1,0 +1,3 @@
+Initial: {[][<]N1C(=O)c2cc3C(=O)N(C(=O)c3cc2C1=O)[<],[>]c1ccc(cc1)C(=O)c2ccc(cc2)[>][]} 
+Canonical: {[][>1]c(cc1)ccc1C(=O)c(cc1)ccc1[<0],[>0]n(c(c1cc2c3=O)=O)c(=O)c1cc2c(=O)n3[<1][]}
+Other options:

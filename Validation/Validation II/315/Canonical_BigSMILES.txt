@@ -1,0 +1,3 @@
+Initial: N#CC(C)(C){[$][$]CC(c1ccccc1)[$];[$]C(C)(C)C#N,[$]C=C(c1ccccc1)[]} 
+Canonical: N#CC(C)(C){[<][>]CC(c(cc1)ccc1)[<],[>]C(c(cc1)ccc1)C[<];[>]C(C)(C)C#N,[>]C=Cc(cc1)ccc1[]}
+Other options:

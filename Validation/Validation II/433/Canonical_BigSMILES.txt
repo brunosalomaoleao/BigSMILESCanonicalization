@@ -1,0 +1,3 @@
+Initial: OC(=O)C=CC(=O)OCCO{[>][<]CCO[>][<]}CCOC(=O)C=CC(=O)O 
+Canonical: O=C(O)C=CC(=O)OCCOCCO{[<][>]CCO[<][>]}C(=O)C=CC(O)=O
+Other options:

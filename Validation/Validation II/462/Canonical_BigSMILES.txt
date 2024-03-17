@@ -1,0 +1,4 @@
+Initial: {[][<]OCC[>][<]}OCC{[>][<]OC(C)C[>][]} 
+Canonical: {[][>]OCC[<][>]}OCC{[<][>]OC(C)C[<][]}
+Other options:
+{[][>]CC(C)O[<][>]}{[<][>]CCO[<][>]}CCO

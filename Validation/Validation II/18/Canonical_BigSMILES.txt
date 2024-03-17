@@ -1,0 +1,4 @@
+Initial: {[][<]CCCCCCCCO[>][]} 
+Canonical: {[][>]OCCCCCCCC[<][]}
+Other options:
+{[][>]CCCCCCCCO[<][]}

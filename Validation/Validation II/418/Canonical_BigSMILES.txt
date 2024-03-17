@@ -1,0 +1,3 @@
+Initial: N(CCC(=O)[#R])(CCC(=O)[#R])CCN(CCC(=O)[#R])(CCC(=O)[#R]).{#R={[>][<]NCCN(CCC(=O)[>])CCC(=O)[>][]}} 
+Canonical: {[][>]NCCN(CCC([<])=O)CCC(=O)[<][>]}C(=O)CCN(CCN(CCC(=O){[<][>]NCCN(CCC([<])=O)CCC(=O)[<][]})CCC(=O){[<][>]NCCN(CCC([<])=O)CCC(=O)[<][]})CCC(=O){[<][>]NCCN(CCC([<])=O)CCC(=O)[<][]}
+Other options:

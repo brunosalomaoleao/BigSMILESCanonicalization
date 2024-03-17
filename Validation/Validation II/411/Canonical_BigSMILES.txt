@@ -1,0 +1,3 @@
+Initial: {[][<]CCCCC(C)(C)C(=O)O{[>][<]CCO[>][<]}C(=O)C(C)(C)CCCC[<],[>]n1cc([<2])nn1,[>2]COCC(COC[>2])(COC[>2])C[]} 
+Canonical: {[][>1]n(nn1)cc1[<0],[>4]c(nn1)cn1[<3],[>0]COCC(C)(COC[<4])COC[<4],[>3]CCCCC(C)(C)C(=O)O{[<][>]CCO[<][>]}C(=O)C(C)(C)CCCC[<1][]}
+Other options:

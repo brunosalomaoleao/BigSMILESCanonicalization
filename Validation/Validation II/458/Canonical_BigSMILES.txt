@@ -1,0 +1,3 @@
+Initial: {[][<]OCC(CO[<])(CO[<])CO[<],[>]C(=O)C(=O)[>][]} 
+Canonical: {[][>1]C(=O)C(=O)[<0],[>0]OCC(CO[<1])(CO[<1])CO[<1][]}
+Other options:

@@ -1,0 +1,4 @@
+Initial: CCC(C){[$][$]CCCC[$],[$]CC(CC)[$][$]}{[$][$]CCCC[$],[$]CC(CC)[$][]} 
+Canonical: {[][>]CCCC[<],[>]CC(CC)[<],[>]C(CC)C[<][>]}C(C)CC
+Other options:
+CCC(C){[<][>]CCCC[<],[>]CC(CC)[<],[>]C(CC)C[<][]}

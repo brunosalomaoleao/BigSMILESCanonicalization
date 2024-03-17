@@ -1,0 +1,3 @@
+Initial: O[B](O){[>]c1([<])cc([>])cc([>])c1[<]}Br 
+Canonical: OB(O){[<][>]c(cc([<])c1)cc1[<][>]}Br
+Other options:

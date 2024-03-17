@@ -1,0 +1,3 @@
+Initial: C([#R])([#R])([#R])([#R]).{#R=C{[<][>]OC(=O)CCCCC[<][>]}OC(=O)C(C)(C)Br} 
+Canonical: BrC(C)(C)C(=O)OC{[<][>]CCCCC(=O)OC[<][>]}C(COC{[<][>]CCCCCOC(=O)[<][>]}C(C)(C)Br=O)(COC(=O){[<][>]CCCCCOC(=O)[<][>]}C(C)(C)Br)COC(=O){[<][>]CCCCCOC(=O)[<][>]}C(C)(C)Br
+Other options:

@@ -1,0 +1,5 @@
+Initial: CC([#R])([#R])C(=O)O{[>][<]CCO[>][<]}C(=O)C([#R])([#R])C.{#R=COC(=O)C(C){[$][$]CC(c1ccccc1)[$][$]}Br} 
+Canonical: Br{[<][>]CC(c(cc1)ccc1)[<],[>]C(c(cc1)ccc1)C[<][>]}C(C)C(=O)OCC(C)(C(=O){[<][>]CC(c(cc1)ccc1)[<],[>]C(c(cc1)ccc1)C[<][>]}OC(=O)C(COC(C{[<][>]CC(c(cc1)ccc1)[<],[>]C(c(cc1)ccc1)C[<][>]}BrC)=O)(C)COC(=O)C(C){[<][>]OCC[<][>]}Br)COC(=O)C(C){[<][>]CC(c(cc1)ccc1)[<],[>]C(c(cc1)ccc1)C[<][>]}Br
+Other options:
+Br{[<][>]CC(c(cc1)ccc1)[<],[>]C(c(cc1)ccc1)C[<][>]}C(C)C(=O)OCC(C)(C(=O)O{[<][>]OCC[<][>]}C(=O)C(COC(C{[<][>]CC(c(cc1)ccc1)[<],[>]C(c(cc1)ccc1)C[<][>]}BrC)=O)(C)COC(=O)C(C){[<][>]CC(c(cc1)ccc1)[<],[>]C(c(cc1)ccc1)C[<][>]}Br)COC(=O)C(C){[<][>]CC(c(cc1)ccc1)[<],[>]C(c(cc1)ccc1)C[<][>]}Br
+Br{[<][>]CC(c(cc1)ccc1)[<],[>]C(c(cc1)ccc1)C[<][>]}C(C)C(=O)OCC(C)(C(=O)O{[<][>]OCC[<][>]}C(=O)C(COC(C{[<][>]CC(c(cc1)ccc1)[<],[>]C(c(cc1)ccc1)C[<][>]}BrC)=O)(C)COC(=O)C(C){[<][>]CC(c(cc1)ccc1)[<],[>]C(c(cc1)ccc1)C[<][>]}Br)COC(=O)C(C){[<][>]CC(c(cc1)ccc1)[<],[>]C(c(cc1)ccc1)C[<][>]}Br

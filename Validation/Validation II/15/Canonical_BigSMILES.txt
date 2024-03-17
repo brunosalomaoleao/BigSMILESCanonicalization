@@ -1,0 +1,4 @@
+Initial: {[][<][Si](C)(CCC(F)(F)F)O[>][]} 
+Canonical: {[][>][Si](C)(CCC(F)(F)F)O[<][]}
+Other options:
+{[][>]O[Si](CCC(F)(F)F)(C)[<][]}

@@ -1,0 +1,4 @@
+Initial: NCC(C)(C){[$][$]CC(C(=O)OCCO)(COC(=O)C(C){[$][$]CC(C)(C(=O)OC)[$][$]}Cl)[$][$]}C(C)(C)c1ccccc1 
+Canonical: NCC(C)(C){[<][>]C(COC(C{[<][>]CC(C)(C(OC)=O)[<],[>]C(C(OC)=O)(C)C[<][>]}ClC)=O)(C(=O)OCCO)C[<],[>]CC(C(=O)OCCO)(COC(C{[<][>]CC(C)(C(OC)=O)[<],[>]C(C(OC)=O)(C)C[<][>]}ClC)=O)[<][>]}C(C)(C)c(cc1)ccc1
+Other options:
+c(c(cc1)C(C)(C){[<][>]CC(C(=O)OCCO)(COC(C{[<][>]CC(C)(C(OC)=O)[<],[>]C(C(OC)=O)(C)C[<][>]}ClC)=O)[<],[>]C(COC(C{[<][>]CC(C)(C(OC)=O)[<],[>]C(C(OC)=O)(C)C[<][>]}ClC)=O)(C(=O)OCCO)C[<][>]}C(C)(C)CN)cc1

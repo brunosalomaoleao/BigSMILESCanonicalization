@@ -1,0 +1,3 @@
+Initial: {[][$]CC(N1c2c(cccc2)c3c1(cccc3))[$][]} 
+Canonical: {[][>]CC(n(c(ccc1)c2c1)c(c2c1)ccc1)[<],[>]C(n(c(ccc1)c2c1)c(c2c1)ccc1)C[<][]}
+Other options:

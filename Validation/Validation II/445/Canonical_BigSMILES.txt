@@ -1,0 +1,4 @@
+Initial: {[][<]C#Cc(cc1)ccc1C#C[Pt](P(c1ccccc1)(c1ccccc1)(c1ccccc1))(P(c1ccccc1)(c1ccccc1)(c1ccccc1))C#Cc(cc1)ccc1C#Cc(cc(OCCCCCCC)c1)cc1[>][]} 
+Canonical: {[][>]c(cc1OCCCCCCC)cc(c1)C#Cc(cc1)ccc1C#C[Pt](P(c(cc1)ccc1)(c(cc1)ccc1)c(cc1)ccc1)(P(c(cc1)ccc1)(c(cc1)ccc1)c(cc1)ccc1)C#Cc(cc1)ccc1C#C[<][]}
+Other options:
+{[][>]C#Cc(cc1)ccc1C#C[Pt](P(c(cc1)ccc1)(c(cc1)ccc1)c(cc1)ccc1)(P(c(cc1)ccc1)(c(cc1)ccc1)c(cc1)ccc1)C#Cc(cc1)ccc1C#Cc(cc(OCCCCCCC)c1)cc1[<][]}

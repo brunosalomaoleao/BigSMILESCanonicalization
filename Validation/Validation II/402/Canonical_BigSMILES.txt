@@ -1,0 +1,4 @@
+Initial: CC([#R])([#R])([#R]).{#R=c(cc1)ccc1OC(=O)C(CO{[>][<]C(=O)C(C)O[>][<]}C(=O)CCC(=O)O)(CO{[>][<]C(=O)C(C)O[>][<]}C(=O)CCC(=O)O)(C)} 
+Canonical: O=C(O)CCC(=O)O{[<][>]C(C)C(=O)O[<][>]}CC(COC(=O){[<][>]C(C)OC(=O)[<][>]}CCC(O)=O)(C)C(=O)Oc(cc1)ccc1C(c(cc1)ccc1OC(=O)C(C)(COC(=O){[<][>]C(C)OC(=O)[<][>]}CCC(O)=O)CO{[<][>]OC(C)C(=O)[<][>]}C(=O)CCC(O)=O)(C)c(cc1)ccc1OC(=O)C(C)(COC(=O){[<][>]C(C)OC(=O)[<][>]}CCC(O)=O)COC(=O){[<][>]C(C)OC(=O)[<][>]}CCC(O)=O
+Other options:
+O=C(O)CCC(=O)O{[<][>]C(C)C(=O)O[<][>]}CC(COC(=O){[<][>]C(C)OC(=O)[<][>]}CCC(O)=O)(C)C(=O)Oc(cc1)ccc1C(c(cc1)ccc1OC(=O)C(C)(COC(=O){[<][>]C(C)OC(=O)[<][>]}CCC(O)=O)COC(=O){[<][>]C(C)OC(=O)[<][>]}CCC(O)=O)(C)c(cc1)ccc1OC(=O)C(C)(COC(=O){[<][>]C(C)OC(=O)[<][>]}CCC(O)=O)COC(=O){[<][>]C(C)OC(=O)[<][>]}CCC(O)=O

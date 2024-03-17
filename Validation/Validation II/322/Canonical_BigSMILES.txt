@@ -1,0 +1,4 @@
+Initial: CC(C)(C){[$][$]CC(C)(C)[$][$]}CC(C)CSCCN 
+Canonical: NCCSCC(C)C{[<][>]CC(C)(C)[<],[>]C(C)(C)C[<][>]}C(C)(C)C
+Other options:
+CC(C)(C){[<][>]CC(C)(C)[<],[>]C(C)(C)C[<][>]}CC(C)CSCCN

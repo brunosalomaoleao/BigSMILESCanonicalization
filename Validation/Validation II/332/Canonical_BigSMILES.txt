@@ -1,0 +1,4 @@
+Initial: O{[>][<]C(=O)C(C)N[>],[<]C(=O)CN[>][<]} 
+Canonical: [H]{[<][>]NCC(=O)[<],[>]NC(C)C(=O)[<][>]}O
+Other options:
+O{[<][>]C(=O)CN[<],[>]C(=O)C(C)N[<][>]}[H]

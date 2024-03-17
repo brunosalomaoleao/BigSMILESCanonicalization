@@ -1,0 +1,3 @@
+Initial: {[][<]NCCCCCCN[<],[>]C(=O)CCCCC(=O)[>][]} 
+Canonical: {[][>1]C(=O)CCCCC(=O)[<0],[>0]NCCCCCCN[<1][]}
+Other options:

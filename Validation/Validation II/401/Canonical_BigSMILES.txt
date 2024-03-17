@@ -1,0 +1,4 @@
+Initial: CC([#R])([#R])([#R]).{#R=c(cc1)ccc1OC(=O)C(CO{[>][<]C(=O)C(C)O[>][<]})(CO{[>][<]C(=O)C(C)O[>][<]})C} 
+Canonical: O{[<][>]C(C)C(=O)O[<][>]}CC(CO{[<][>]C(=O)C(C)O[<][>]}[H])(C)C(=O)Oc(cc1)ccc1C(c(cc1)ccc1OC(=O)C(C)(CO{[<][>]OC(C)C(=O)[<][>]}[H])CO{[<][>]C(=O)C(C)O[<][>]}[H])(C)c(cc1)ccc1OC(=O)C(C)(CO{[<][>]C(=O)C(C)O[<][>]}[H])CO{[<][>]C(=O)C(C)O[<][>]}[H]
+Other options:
+O{[<][>]C(C)C(=O)O[<][>]}CC(CO{[<][>]C(=O)C(C)O[<][>]}[H])(C)C(=O)Oc(cc1)ccc1C(c(cc1)ccc1OC(=O)C(C)(CO{[<][>]C(=O)C(C)O[<][>]}[H])CO{[<][>]C(=O)C(C)O[<][>]}[H])(C)c(cc1)ccc1OC(=O)C(C)(CO{[<][>]C(=O)C(C)O[<][>]}[H])CO{[<][>]C(=O)C(C)O[<][>]}[H]

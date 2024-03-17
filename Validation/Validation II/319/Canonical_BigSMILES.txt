@@ -1,0 +1,4 @@
+Initial: C1C(O1)CO{[>][<]CCO[>][<]}CC(O1)C1 
+Canonical: C(C1C{[<][>]CCO[<][>]}OCC(O1)C1)O1
+Other options:
+C(C1COC{[<][>]COC[<][>]}C(C1)O1)O1

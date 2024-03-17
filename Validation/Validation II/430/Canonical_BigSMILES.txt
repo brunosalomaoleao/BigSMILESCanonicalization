@@ -1,0 +1,5 @@
+Initial: C(c1ccccc1)OCC{[>][<]OCC[>][<]}OC(COC(=O)C(C)(C){[$][$]CC(C(=O)OC(C)(C)C)[$][$]}Br)CC(c1ccccc1)C{[$][$]CC(c1ccccc1)[$][$]}CCCC 
+Canonical: CCCC{[<][>]CC(c(cc1)ccc1)[<],[>]C(c(cc1)ccc1)C[<][>]}CC(c(cc1)ccc1)CC(COC(C{[<][>]CC(C(OC(C)(C)C)=O)[<],[>]C(C(OC(C)(C)C)=O)C[<][>]}Br(C)C)=O)O{[<][>]OCC[<][>]}CCOCc(cc1)ccc1
+Other options:
+c(ccc1)c(c1)COCCO{[<][>]CCO[<][>]}C(COC(C{[<][>]CC(C(OC(C)(C)C)=O)[<],[>]C(C(OC(C)(C)C)=O)C[<][>]}Br(C)C)=O)CC(c(cc1)ccc1)C{[<][>]C(c(cc1)ccc1)C[<],[>]C{[<][>]C(c(cc1)ccc1)C[<][>]}C(c(cc1)ccc1)C(c(cc1)ccc1)C[<][>]}C{[<][>]C(c(cc1)ccc1)C[<][>]}CCC
+Br{[<][>]CC(C(OC(C)(C)C)=O)[<],[>]C(C(OC(C)(C)C)=O)C[<][>]}C(C)(C)C(=O)OCC(O{[<][>]OCC[<][>]}CCOCc(cc1)ccc1)CC(c(cc1)ccc1)C{[<][>]C(c(cc1)ccc1)C[<],[>]C{[<][>]C(c(cc1)ccc1)C[<][>]}C(c(cc1)ccc1)C(c(cc1)ccc1)C[<][>]}C{[<][>]C(c(cc1)ccc1)C[<][>]}CCC

@@ -1,0 +1,4 @@
+Initial: CO{[>][<]CCO[>][<]}{[>][<]C(=O)C(C)O[>],[<]C(=O)CO[>][<]}C(=O)CO 
+Canonical: OCC(=O){[<][>]OCC(=O)[<],[>]OC(C)C(=O)[<][>]}O{[<][>]CCO[<][>]}C
+Other options:
+CO{[<][>]CCO[<][>]}C(=O){[<][>]COC(=O)[<],[>]C(C)OC(=O)[<][>]}CO

@@ -1,0 +1,3 @@
+Initial: {[][$]CC=CC[$][]} 
+Canonical: {[][>]CC=CC[<][]}
+Other options:

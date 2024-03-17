@@ -1,0 +1,4 @@
+Initial: CC(C)(C){[$][$]CC(C)(C)[$][$]}CC(C)=C 
+Canonical: CC(C)(C){[<][>]CC(C)(C)[<],[>]C(C)(C)C[<][>]}CC(C)=C
+Other options:
+C=C(C)C{[<][>]CC(C)(C)[<],[>]C(C)(C)C[<][>]}C(C)(C)C

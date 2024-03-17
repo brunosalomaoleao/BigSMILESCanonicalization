@@ -1,0 +1,3 @@
+Initial: {[][$][Si](C1CCCCC1)(C)[$][]} 
+Canonical: {[][>][Si](C(CC1)CCC1)(C)[<][]}
+Other options:

@@ -1,0 +1,4 @@
+Initial: {[][<]C(C(F)(F)F)OC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)OC(C(F)(F)F)c1nc(nc(C(F)(F)F)n1)[>][]} 
+Canonical: {[][>]c(nc1C(F)(F)F)nc(n1)C(C(F)(F)F)OC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)OC(C(F)(F)F)[<][]}
+Other options:
+{[][>]C(C(F)(F)F)OC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)OC(C(F)(F)F)c(nc(C(F)(F)F)n1)nc1[<][]}

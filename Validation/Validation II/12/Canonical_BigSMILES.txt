@@ -1,0 +1,3 @@
+Initial: {[][$]CC=C(CCC)C[$][]} 
+Canonical: {[][>]CC=C(CCC)C[<],[>]CC(CCC)=CC[<][]}
+Other options:

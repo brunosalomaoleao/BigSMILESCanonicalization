@@ -1,0 +1,3 @@
+Initial: {[][<1]CC(=O)OCc1ccc(COC(=O)C[<1])c(N(=O)=O)c1,[>2]SCCC(=O)OC(COC(=O)CCS[>2])(COC(=O)CCS[>2])COC(=O)CCS[>2],[>2]SCCCCCCS[>2],[>1]CC[<2][]} 
+Canonical: {[][>1]CC[<0],[>2]SCCCCCCS[<1],[>3]CC[<2],[>0]CC(=O)OCc(cc1[N+](=O)[O-])ccc1COC(=O)C[<3],[>0]CC(=O)OCc(c([N+](=O)[O-])c1)ccc1COC(=O)C[<3],[>2]SCCC(=O)OCC(OC(=O)CCS[<1])(COC(=O)CCS[<1])COC(=O)CCS[<1],[>2]SCCC(=O)OC(COC(=O)CCS[<1])(COC(=O)CCS[<1])COC(=O)CCS[<1][]}
+Other options:

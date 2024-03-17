@@ -1,0 +1,3 @@
+Initial: {[][$]CC(C)([#R])[$][]}.{#R=C(=O)OCC12CC(C3)CC(C1)CC3C2} 
+Canonical: {[][>]CC(C(=O)OCC(CC1C2)(CC32)CC(C1)C3)(C)[<],[>]C(C)(C(=O)OCC(CC1C2)(CC32)CC(C1)C3)C[<][]}
+Other options:

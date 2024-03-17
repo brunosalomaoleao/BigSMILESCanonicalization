@@ -1,0 +1,4 @@
+Initial: {[]C[N+](C)(C)CCCC6(CCC[N+](C)(C)C)c1cc([<])ccc1c5ccc(c4ccc3c2ccc([>])cc2C({[<][>]CCO[<][]})({[<][>]CCO[<][]})c3c4)cc56[]} 
+Canonical: {[][>]c(ccc1-c2cc3)cc1C(CCC[N+](C)(C)C)(CCC[N+](C)(C)C)c2cc3-c(ccc1-c2cc3)cc1C(c2cc3[<]){[<][>]CCO[<][]}{[<][>]CCO[<][]}[]}
+Other options:
+{[][>]c(cc1)cc(c1-c1cc2)C(c(cc3)cc(C(CCC[N+](C)(C)C)(c4cc5[<])CCC[N+](C)(C)C)c3-c4cc5)(c1cc2{[<][>]CCO[<][]}){[<][>]CCO[<][]}[]}
