@@ -1,0 +1,30 @@
+strict graph "" {
+	3	[active=False,
+		depiction_id="[<1] 2",
+		ids=2,
+		local_el="{'wildcard_cluster': False, 'ru_local_el': set(), 'endgrp_local_el': set()}",
+		symbol="[<1]"];
+	5	[active=False,
+		chirality="rdkit.Chem.rdchem.ChiralType(0)",
+		contraction="{6: {'symbol': 'C', 'formal_charge': 0, 'is_aromatic': False, 'chirality': rdkit.Chem.rdchem.ChiralType(0), 'num_hs': 0, 'stoch_\
+el': [[], []], 'active': False, 'level': 0, 'explicit_atom_ids': False, 'ids': 1}, 7: {'symbol': 'C', 'formal_charge': 0, 'is_aromatic': \
+False, 'chirality': rdkit.Chem.rdchem.ChiralType(0), 'num_hs': 0, 'stoch_el': [[], []], 'active': False, 'level': 0, 'explicit_atom_\
+ids': False, 'ids': 1}, 8: {'symbol': 'C', 'formal_charge': 0, 'is_aromatic': False, 'chirality': rdkit.Chem.rdchem.ChiralType(0), '\
+num_hs': 0, 'stoch_el': [[], []], 'active': False, 'level': 0, 'explicit_atom_ids': False, 'ids': 1}, 9: {'symbol': 'C', 'formal_\
+charge': 0, 'is_aromatic': False, 'chirality': rdkit.Chem.rdchem.ChiralType(0), 'num_hs': 0, 'stoch_el': [[], []], 'active': False, '\
+level': 0, 'explicit_atom_ids': False, 'ids': 1}, 10: {'symbol': 'C', 'formal_charge': 0, 'is_aromatic': False, 'chirality': rdkit.Chem.rdchem.ChiralType(\
+0), 'num_hs': 0, 'stoch_el': [[], []], 'active': False, 'level': 0, 'explicit_atom_ids': False, 'ids': 1}, 11: {'symbol': 'O', '\
+formal_charge': 0, 'is_aromatic': False, 'chirality': rdkit.Chem.rdchem.ChiralType(0), 'num_hs': 0, 'stoch_el': [[], []], 'active': \
+False, 'level': 0, 'explicit_atom_ids': False, 'ids': 1}}",
+		depiction_id=1,
+		explicit_atom_ids=False,
+		formal_charge=0,
+		ids=1,
+		is_aromatic=False,
+		level=0,
+		num_hs=0,
+		stoch_el="[[], []]",
+		symbol=C];
+	3 -- 5	[bond_type=3,
+		contraction="{(10, 3): {'bond_type': '3'}}"];
+}
