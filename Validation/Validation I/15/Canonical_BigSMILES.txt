@@ -1,0 +1,3 @@
+Initial: {[][<]C(=O)[CH2]C(=O)[<],[>]O[CH2][CH]([CH2]O[>])[CH2]O[>][]} 
+Canonical: {[][>1]C(=O)CC(=O)[<0],[>0]OCC(CO[<1])CO[<1][]}
+Other options:

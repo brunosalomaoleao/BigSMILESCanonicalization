@@ -1,0 +1,3 @@
+Initial: C[Si](C)(C)O[Si](C)(C)O{[>][<][Si](C)(C)[<2],[>2]O[>][<]}[Si](C)(C)C 
+Canonical: C[Si](C)(C)O[Si](C)(C)O[Si](C)(C){[<][>]O[Si](C)(C)[<][>]}C
+Other options:

@@ -1,0 +1,4 @@
+Initial: {[][<2]CCO[>2][]} 
+Canonical: {[][>]OCC[<][]}
+Other options:
+{[][>]CCO[<][]}

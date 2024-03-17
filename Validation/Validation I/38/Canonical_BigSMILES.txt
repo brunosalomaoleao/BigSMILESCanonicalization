@@ -1,0 +1,3 @@
+Initial: {[][<1]NCCN(CCC(=O)[>1])CCC(=O)[>1][]} 
+Canonical: {[][>]NCCN(CCC([<])=O)CCC(=O)[<][]}
+Other options:
